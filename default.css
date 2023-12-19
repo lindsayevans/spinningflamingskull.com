@@ -1,0 +1,45 @@
+body {
+	background: rgb(0,0,0) url(cowbell.gif);
+	font: 100% 'Copperplate Gothic Bold','Copperplate',sans-serif;
+	color: rgb(128,0,0);
+}
+
+a:link {
+	color: rgb(0,0,128);
+}
+
+a:visited {
+	color: rgb(128,0,128);
+}
+
+a:hover, a:active {
+	color: rgb(128,0,0);
+}
+
+audio {
+	display: block;
+	margin: 0 auto;
+}
+
+article {
+	display: block;
+	width: 60%;
+	max-width: 30em;
+	margin: 1em auto;
+	border: 1em outset;
+	background: rgb(128,128,128);
+	text-align: center;
+	padding: 1em;
+}
+
+#author {
+	font-size: 0.8em;
+}
+
+#midi {
+	width: 200px;
+	margin: 0 auto;
+}
+
+#midi div {
+}
